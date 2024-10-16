@@ -1,0 +1,14 @@
+---
+swagger: "2.0"
+host: ${HOST_NAME}
+basePath: ${BASE_PATH}
+schemes:
+  - https
+info:
+  version: 1.0.0
+  title: ${TITLE}
+  contact:
+    name: Technology
+    email: tech@partsavatar.ca
+paths:
+definitions:
